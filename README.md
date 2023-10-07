@@ -1,4 +1,4 @@
-<img src="images/g0ldark_img.png" alt="Github Header" width="100%">
+<!---**<img src="images/g0ldark_img.png" alt="Github Header" width="100%">**/-->
 
 
 
@@ -8,23 +8,22 @@ My fascination with AI is more than just a passion. 💡 I'm deeply immersed in 
 
 <h3 align="left">What I'm Doing:</h3>
 
-<div align="center">
+
 
 🔭 I'm currently working on my **portafolio-web**
 
 🌱 I'm currently learning **Neuronal Networks**, **React**, **Tailwind**
-</div>
+
 
 ## Social Media 
 
-<div align="center">
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daniel.ctecla@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danielctecla/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_itc13/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/g0ldark_)
 
-</div>
 
 ## Tools
 
@@ -42,6 +41,8 @@ Languages and frameworks. 🛠️
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![Latex](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g0ldark&show_icons=true&theme=react&rank_icon=github&border_radius=10)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0ldark&layout=compact&theme=react)
 
 
 
