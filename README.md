@@ -1,4 +1,5 @@
-![Github Header](images/g0ldark_img.png)
+<img src="images/g0ldark_img.png" alt="Github Header" width="100%">
+
 
 
 👋Hi everyone! I'm ***Catonga Tecla Daniel Isaí***, and I'm on an exciting academic path as an Artificial Intelligence enthusiast. I'm currently a student at [ESCOM](https://www.escom.ipn.mx/), where I'm pursuing a degree in Artificial Intelligence Engineering. 
